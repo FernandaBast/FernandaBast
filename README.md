@@ -13,15 +13,14 @@
   <img align="right" alt="fe-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/338224_tyajtCVN.png?width=676&height=676">
 </div>
   
-  ##
- 
+ ##
+  
 <div> 
   <a href="https://instagram.com/_fesotsab_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:feeh7815@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernanda-santos-83b25916a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+   
   ![Snake animation](https://github.com/FernandaBast/FernandaBast/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
-
-
+  
