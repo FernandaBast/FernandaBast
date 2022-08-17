@@ -2,6 +2,8 @@
 
 <p>Me chamo Fernanda, tenho 20 anos e moro em Fortaleza-Ce.</p>
 
+ <hr>
+
 <ul>
   <li>Desenvolvedora Web 👩‍💻</li>
   <li>Graduanda em Ciência da Computação 📚</li>
