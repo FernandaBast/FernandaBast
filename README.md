@@ -1,9 +1,21 @@
-### Oii, eu sou a Fernanda Bastos 👋
+### Oiee, seja Bem-Vindo(a) 💻
+
+<p>Me chamo Fernanda, tenho 20 anos e moro em Fortaleza-Ce.</p>
+
+<ul>
+  <li>Desenvolvedora Web 👩‍💻</li>
+  <li>Graduanda em Ciência da Computação 📚</li>
+  <li>Conheça um pouco mais o meu perfil😊</li>
+
+</ul>
+
 <div align="center">
   <a href="https://github.com/FernandaBast">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaBast&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaBast&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+
+### Tecnologias que uso no meu dia a dia:
 <div style="display: inline_block"><br>
   <img align="center" alt="FE-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="FE-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
