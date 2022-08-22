@@ -1,13 +1,13 @@
-### Oiee, seja Bem-Vindo(a) 💻
+### Heyy, Welcome 💻
 
-<p>Me chamo Fernanda, tenho 20 anos e moro em Fortaleza-Ce.</p>
+<p>My name is Fernanda, I am 20 years old and I live in Fortaleza-Ce.</p>
 
  <hr>
 
 <ul>
-  <li>Desenvolvedora Web 👩‍💻</li>
-  <li>Graduanda em Ciência da Computação 📚</li>
-  <li>Conheça um pouco mais o meu perfil😊</li>
+  <li>Web Developer 👩‍💻</li>
+  <li>Graduate in Computer Science 📚</li>
+  <li>Learn more about my profile 😊</li>
 
 </ul>
 
