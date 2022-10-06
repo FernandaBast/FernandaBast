@@ -1,6 +1,6 @@
 ### Heyy, Welcome 💻
 
-<p>My name is Fernanda, I'm 20 years old and I live in Fortaleza-Ce.</p>
+<p>My name is Fernanda <3 </p>
 
  <hr>
 
