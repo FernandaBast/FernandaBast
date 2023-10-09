@@ -25,7 +25,7 @@
   <img align="center" alt="FE-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="FE-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  
-  <img align="right" alt="fe-pic" height="150" style="border-radius:50px;" src="https://w7.pngwing.com/pngs/102/481/png-transparent-anime-desktop-manga-television-show-anime-black-hair-manga-human.png">
+  <img align="right" alt="fe-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-dsizo&psig=AOvVaw1fQKgac6cW4pIjhBid5asZ&ust=1696941379064000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiE57L96IEDFQAAAAAdAAAAABAE">
 </div>
   
  ##
