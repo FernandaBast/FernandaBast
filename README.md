@@ -25,7 +25,7 @@
   <img align="center" alt="FE-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="FE-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  
-  <img align="right" alt="fe-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-dsizo&psig=AOvVaw1fQKgac6cW4pIjhBid5asZ&ust=1696941379064000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiE57L96IEDFQAAAAAdAAAAABAE">
+  <img align="right" alt="fe-pic" height="150" style="border-radius:50px;" src="https://images.vexels.com/media/users/3/262086/isolated/preview/90e147027f87c9e09aa1069eacf100c4-anime-hearts-boy-people-anime-corazones-chico-gente-pessoas-de-menino-de-coracoes-de-anime-anime-herzen-junge-menschen.png">
 </div>
   
  ##
